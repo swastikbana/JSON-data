@@ -1,0 +1,18 @@
+[
+    {
+        "name": "Frozen",
+        "pic": "https://res.cloudinary.com/swastikbana/image/upload/v1516221618/frozen_uipmsl.jpg"
+    },
+    {
+        "name": "Zootopia",
+        "pic": "https://res.cloudinary.com/swastikbana/image/upload/v1516221658/zootopia_gjff1g.jpg"
+    },
+    {
+        "name": "How to train your Dragon",
+        "pic": "https://res.cloudinary.com/swastikbana/image/upload/v1516221640/how_to_train_your_dragon_nvnph0.jpg"
+    },
+    {
+        "name": "Tangled",
+        "pic": "https://res.cloudinary.com/swastikbana/image/upload/v1516221653/tangled_humdkh.jpg"
+    }
+]
